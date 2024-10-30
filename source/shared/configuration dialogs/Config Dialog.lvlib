@@ -15,5 +15,5 @@
 	<Item Name="Get Display Name for Cfg file.vi" Type="VI" URL="../Get Display Name for Cfg file.vi"/>
 	<Item Name="PDM Acq Cfg Popup.vi" Type="VI" URL="../PDM Acq Cfg Popup.vi"/>
 	<Item Name="Popup Template.vi" Type="VI" URL="../Popup Template.vi"/>
-	<Item Name="Set Digital Serial File Path.vi" Type="VI" URL="../Set Digital Serial File Path.vi"/>
+	<Item Name="Set Input Configuration File Path.vi" Type="VI" URL="../Set Input Configuration File Path.vi"/>
 </Library>
