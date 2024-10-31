@@ -11,10 +11,8 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Array to Wfm (N Ch).vi" Type="VI" URL="../../shared/Array to Wfm (N Ch).vi"/>
 		<Item Name="Single Tone - Digital Mic UI.lvlib" Type="Library" URL="../Single Tone - Digital Mic UI/Single Tone - Digital Mic UI.lvlib"/>
 		<Item Name="Single Tone - Digital Mic.lvlib" Type="Library" URL="../Single Tone - Digital Mic/Single Tone - Digital Mic.lvlib"/>
-		<Item Name="Single Tone Measurements.vi" Type="VI" URL="../../../test/Single Tone Measurements.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="1D String Array to Delimited String.vi" Type="VI" URL="/&lt;vilib&gt;/AdvancedString/1D String Array to Delimited String.vi"/>
@@ -602,6 +600,7 @@
 			</Item>
 			<Item Name="analog input settings.ctl" Type="VI" URL="../../service/generation/controls/analog input settings.ctl"/>
 			<Item Name="Array to Spectra (N Ch).vi" Type="VI" URL="../../shared/Array to Spectra (N Ch).vi"/>
+			<Item Name="Array to Wfm (N Ch).vi" Type="VI" URL="../../shared/Array to Wfm (N Ch).vi"/>
 			<Item Name="audio filter settings.ctl" Type="VI" URL="../../shared/measurements/controls/audio filter settings.ctl"/>
 			<Item Name="Audio Filtering (Time Domain).vi" Type="VI" URL="../../shared/measurements/Audio Filtering (Time Domain).vi"/>
 			<Item Name="bit clock direction.ctl" Type="VI" URL="../../shared/controls/bit clock direction.ctl"/>
