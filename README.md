@@ -1,15 +1,7 @@
 # GitHub Repo Template
 
-GitHub Repo Template is a template for creation of open source projects made
-available on GitHub. It includes a permissive open source license, a developer
-certificate of origin, and a pull request template. This provides everything
-necessary to have a properly licensed open source project.
+## Dev System Setup
 
-## Using GitHub Repo Template
-
-1. Clone or download this repository.
-2. Copy its contents into your project (including the hidden .github directory). 
-3. Customize each file to suit your project's needs (including the README). Look through the files for "TODO" and \<reponame\>, and replace with content appropriate to your project.
-4. (Optional) Check out [GitHub Template Guidelines](https://github.com/cezaraugusto/github-template-guidelines) for ideas about how to customize your project.
-
-TODO: describe a project in detail, what it does, how to use it, etc.
+Known issue 2432236 https://www.ni.com/en/support/documentation/bugs/23/labview-sound-and-vibration-toolkit-2023-q3-known-issues.html
+Copy the Common folder from C:\Program Files\NI\LVAddons\nisvt\1\vi.lib\addons\_NISVFA\_Shared subVIs
+to C:\Program Files\National Instruments\LabVIEW 2022\vi.lib\addons\_NISVFA\_Shared subVIs
