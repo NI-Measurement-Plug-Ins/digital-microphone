@@ -450,17 +450,16 @@
 				<Item Name="SV Aggregate Data (Complex Spectrum).vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/SV Aggregate Data (Complex Spectrum).vi"/>
 				<Item Name="SV Aggregate Data (Real Spectrum).vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/SV Aggregate Data (Real Spectrum).vi"/>
 				<Item Name="SV Append Data (1 Ch) ([DBL]).vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/SV Append Data (1 Ch) ([DBL]).vi"/>
-				<Item Name="SV Append Data (1 Ch) (DBL).vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/SV Append Data (1 Ch) (DBL).vi"/>
+				<Item Name="SV Append Data (1 Ch) (DBL).vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/SV Append Data (1 Ch) (DBL).vi"/>
 				<Item Name="SV Append Data (1 Ch) (I32).vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/SV Append Data (1 Ch) (I32).vi"/>
 				<Item Name="SV Append Data (1 Ch) (SGL).vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/SV Append Data (1 Ch) (SGL).vi"/>
 				<Item Name="SV Append Data (1 Ch) (Variant).vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/SV Append Data (1 Ch) (Variant).vi"/>
-				<Item Name="SV Append Data (N Ch) (DBL).vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/SV Append Data (N Ch) (DBL).vi"/>
-				<Item Name="SV Append Data.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/SV Append Data.vi"/>
-				<Item Name="SV Append Waveform (1 Ch) (DBL).vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/SV Append Waveform (1 Ch) (DBL).vi"/>
+				<Item Name="SV Append Data (N Ch) (DBL).vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/SV Append Data (N Ch) (DBL).vi"/>
+				<Item Name="SV Append Data.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/SV Append Data.vi"/>
+				<Item Name="SV Append Waveform (1 Ch) (DBL).vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/SV Append Waveform (1 Ch) (DBL).vi"/>
 				<Item Name="SV Append Waveforms (N Ch) (DBL).vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/SV Append Waveforms (N Ch) (DBL).vi"/>
 				<Item Name="SV Buffer Array (No State) (DBL).vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/SV Buffer Array (No State) (DBL).vi"/>
 				<Item Name="SV Buffer Waveform (No State) (DBL).vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/SV Buffer Waveform (No State) (DBL).vi"/>
-				<Item Name="SV Buffer Waveform (No State) (DBL).vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/SV Buffer Waveform (No State) (DBL).vi"/>
 				<Item Name="SV Channel Properties.ctl" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Controls/SV Channel Properties.ctl"/>
 				<Item Name="SV Continuous Sweep.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/addons/_NISVFA/_Generation/Signal Generation/SV Continuous Sweep/SV Continuous Sweep.lvclass"/>
 				<Item Name="SV Discrete Sweep.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/addons/_NISVFA/_Generation/Signal Generation/SV Discrete Sweep/SV Discrete Sweep.lvclass"/>
@@ -476,7 +475,7 @@
 				<Item Name="SV Get By Measurement Type (voltage) (N Ch).vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Groups/SV Get By Measurement Type (voltage) (N Ch).vi"/>
 				<Item Name="SV Get By Measurement Type.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Groups/SV Get By Measurement Type.vi"/>
 				<Item Name="SV Get Channels By Unit.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Groups/SV Get Channels By Unit.vi"/>
-				<Item Name="SV Get Data Subset.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/SV Get Data Subset.vi"/>
+				<Item Name="SV Get Data Subset.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/SV Get Data Subset.vi"/>
 				<Item Name="SV Get Software Trigger Parameters.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Groups/SV Get Software Trigger Parameters.vi"/>
 				<Item Name="SV Match Unit.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Groups/SV Match Unit.vi"/>
 				<Item Name="SV MLS.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/addons/_NISVFA/_Generation/Signal Generation/SV MLS/SV MLS.lvclass"/>
@@ -489,9 +488,9 @@
 				<Item Name="SV Read Next Measurement Data.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Data Objects/Waveforms (DBL)/SV Read Next Measurement Data.vi"/>
 				<Item Name="SV Read Next Overlapping Data.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Data Objects/Waveforms (DBL)/SV Read Next Overlapping Data.vi"/>
 				<Item Name="SV Read Spectra from Data Object.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Data Objects/subVIs/SV Read Spectra from Data Object.vi"/>
-				<Item Name="SV Remove Delays (1,N) from Waveforms (N Ch) (DBL).vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/SV Remove Delays (1,N) from Waveforms (N Ch) (DBL).vi"/>
-				<Item Name="SV Remove Delays (N,N) from Waveforms (N Ch) (DBL).vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/SV Remove Delays (N,N) from Waveforms (N Ch) (DBL).vi"/>
-				<Item Name="SV Remove Delays from Waveforms.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/SV Remove Delays from Waveforms.vi"/>
+				<Item Name="SV Remove Delays (1,N) from Waveforms (N Ch) (DBL).vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/SV Remove Delays (1,N) from Waveforms (N Ch) (DBL).vi"/>
+				<Item Name="SV Remove Delays (N,N) from Waveforms (N Ch) (DBL).vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/SV Remove Delays (N,N) from Waveforms (N Ch) (DBL).vi"/>
+				<Item Name="SV Remove Delays from Waveforms.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/SV Remove Delays from Waveforms.vi"/>
 				<Item Name="SV Signal.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/addons/_NISVFA/_Generation/Signal Generation/SV Signal/SV Signal.lvclass"/>
 				<Item Name="SV Sinusoid.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/addons/_NISVFA/_Generation/Signal Generation/SV Sinusoid/SV Sinusoid.lvclass"/>
 				<Item Name="SV Square.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/addons/_NISVFA/_Generation/Signal Generation/SV Square/SV Square.lvclass"/>
@@ -526,10 +525,10 @@
 				<Item Name="sv_Compute High Pass Filter Denominator.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/Sound and Vibration/svt_Weighting/subVIs/sv_Compute High Pass Filter Denominator.vi"/>
 				<Item Name="sv_Compute Low Pass Filter Denominator.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/Sound and Vibration/svt_Weighting/subVIs/sv_Compute Low Pass Filter Denominator.vi"/>
 				<Item Name="sv_Compute Weighting Relative Response.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/Sound and Vibration/svt_Weighting/subVIs/sv_Compute Weighting Relative Response.vi"/>
-				<Item Name="sv_Concatenate Label and Unit.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/sv_Concatenate Label and Unit.vi"/>
+				<Item Name="sv_Concatenate Label and Unit.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/sv_Concatenate Label and Unit.vi"/>
 				<Item Name="sv_ConcatenateArrayIndicies.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Groups/sv_ConcatenateArrayIndicies.vi"/>
 				<Item Name="sv_Convert Spectrum Info to Variant Attributes.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Spectrum Info/sv_Convert Spectrum Info to Variant Attributes.vi"/>
-				<Item Name="sv_Convert Timestamp to Relative Index.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/sv_Convert Timestamp to Relative Index.vi"/>
+				<Item Name="sv_Convert Timestamp to Relative Index.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/sv_Convert Timestamp to Relative Index.vi"/>
 				<Item Name="sv_Convert Variant Attributes to Spectrum Info.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Spectrum Info/sv_Convert Variant Attributes to Spectrum Info.vi"/>
 				<Item Name="sv_Design ABC Weighting Filters.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/Sound and Vibration/svt_Weighting/subVIs/sv_Design ABC Weighting Filters.vi"/>
 				<Item Name="sv_Design Weighting Filter.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/Sound and Vibration/svt_Weighting/subVIs/sv_Design Weighting Filter.vi"/>
@@ -545,17 +544,17 @@
 				<Item Name="sv_Flat Pink Noise Filter Coefficients.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Generation/subVIs/sv_Flat Pink Noise Filter Coefficients.vi"/>
 				<Item Name="sv_Flat Pink Noise Waveform.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Generation/subVIs/sv_Flat Pink Noise Waveform.vi"/>
 				<Item Name="sv_Frequency Weighting Characteristic.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/Sound and Vibration/svt_Weighting/subVIs/sv_Frequency Weighting Characteristic.vi"/>
-				<Item Name="sv_Generate Discrete Steps.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/sv_Generate Discrete Steps.vi"/>
+				<Item Name="sv_Generate Discrete Steps.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/sv_Generate Discrete Steps.vi"/>
 				<Item Name="sv_Get Audio Weighting Filter Coefficients.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/Sound and Vibration/svt_Weighting/subVIs/sv_Get Audio Weighting Filter Coefficients.vi"/>
 				<Item Name="sv_Get Continuous Swept Sine Settings (1 Ch).vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Generation/Signal Generation/SV Continuous Sweep/sv_Get Continuous Swept Sine Settings (1 Ch).vi"/>
-				<Item Name="sv_Get Function SubType String.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/sv_Get Function SubType String.vi"/>
-				<Item Name="sv_Get Function Type String.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/sv_Get Function Type String.vi"/>
-				<Item Name="sv_Get LabVIEW Datatype String.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/sv_Get LabVIEW Datatype String.vi"/>
+				<Item Name="sv_Get Function SubType String.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/sv_Get Function SubType String.vi"/>
+				<Item Name="sv_Get Function Type String.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/sv_Get Function Type String.vi"/>
+				<Item Name="sv_Get LabVIEW Datatype String.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/sv_Get LabVIEW Datatype String.vi"/>
 				<Item Name="sv_Get N(z) and D(z).vi" Type="VI" URL="/&lt;vilib&gt;/Addons/Sound and Vibration/svt_Weighting/subVIs/sv_Get N(z) and D(z).vi"/>
-				<Item Name="sv_Get NI Property Name String.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/sv_Get NI Property Name String.vi"/>
-				<Item Name="sv_Get SV Property Name String.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/sv_Get SV Property Name String.vi"/>
-				<Item Name="sv_Get Window String.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/sv_Get Window String.vi"/>
-				<Item Name="sv_Get X-Dimension String.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/sv_Get X-Dimension String.vi"/>
+				<Item Name="sv_Get NI Property Name String.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/sv_Get NI Property Name String.vi"/>
+				<Item Name="sv_Get SV Property Name String.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/sv_Get SV Property Name String.vi"/>
+				<Item Name="sv_Get Window String.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/sv_Get Window String.vi"/>
+				<Item Name="sv_Get X-Dimension String.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/sv_Get X-Dimension String.vi"/>
 				<Item Name="sv_Human Vibration a-v transition Filter.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/Sound and Vibration/svt_Weighting/subVIs/sv_Human Vibration a-v transition Filter.vi"/>
 				<Item Name="sv_Human Vibration High Pass Filter.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/Sound and Vibration/svt_Weighting/subVIs/sv_Human Vibration High Pass Filter.vi"/>
 				<Item Name="sv_Human Vibration Low Pass Filter.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/Sound and Vibration/svt_Weighting/subVIs/sv_Human Vibration Low Pass Filter.vi"/>
@@ -571,56 +570,55 @@
 				<Item Name="sv_Set Function State Attributes on Waveform.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Generation/subVIs/sv_Set Function State Attributes on Waveform.vi"/>
 				<Item Name="sv_Weighting Filter with IC.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/Sound and Vibration/svt_Weighting/subVIs/sv_Weighting Filter with IC.vi"/>
 				<Item Name="svc_Analog Level Trigger Configuration.ctl" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Controls/svc_Analog Level Trigger Configuration.ctl"/>
-				<Item Name="svc_Build Unit Label for Frequency Range.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_Build Unit Label for Frequency Range.vi"/>
-				<Item Name="svc_Caller VI Returned in Error Source.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_Caller VI Returned in Error Source.vi"/>
-				<Item Name="svc_Channel Info to Spectrum Info.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_Channel Info to Spectrum Info.vi"/>
+				<Item Name="svc_Build Unit Label for Frequency Range.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/svc_Build Unit Label for Frequency Range.vi"/>
+				<Item Name="svc_Caller VI Returned in Error Source.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/svc_Caller VI Returned in Error Source.vi"/>
+				<Item Name="svc_Channel Info to Spectrum Info.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/svc_Channel Info to Spectrum Info.vi"/>
 				<Item Name="svc_Channel Info.ctl" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Controls/svc_Channel Info.ctl"/>
-				<Item Name="svc_Check dt for Equal Sample Rates.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_Check dt for Equal Sample Rates.vi"/>
+				<Item Name="svc_Check dt for Equal Sample Rates.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/svc_Check dt for Equal Sample Rates.vi"/>
 				<Item Name="svc_Check for Equality.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_Check for Equality.vi"/>
 				<Item Name="svc_Check for Spectrum Info Change.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_Check for Spectrum Info Change.vi"/>
-				<Item Name="svc_Check for Waveform Parameter Continuity (1 Ch).vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_Check for Waveform Parameter Continuity (1 Ch).vi"/>
-				<Item Name="svc_Check for Waveform Parameter Continuity (N Ch).vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_Check for Waveform Parameter Continuity (N Ch).vi"/>
-				<Item Name="svc_Check for Waveform Parameter Continuity (no state).vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_Check for Waveform Parameter Continuity (no state).vi"/>
-				<Item Name="svc_Check Frequency Range in Bandwidth.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_Check Frequency Range in Bandwidth.vi"/>
-				<Item Name="svc_Check Frequency Range in Spectrum.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_Check Frequency Range in Spectrum.vi"/>
-				<Item Name="svc_Check Frequency Range.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_Check Frequency Range.vi"/>
-				<Item Name="svc_Clear Error Cluster for Specific Code.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_Clear Error Cluster for Specific Code.vi"/>
-				<Item Name="svc_Coerce Index and Length.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_Coerce Index and Length.vi"/>
-				<Item Name="svc_Complex Datatype Defaults.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_Complex Datatype Defaults.vi"/>
+				<Item Name="svc_Check for Waveform Parameter Continuity (1 Ch).vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/svc_Check for Waveform Parameter Continuity (1 Ch).vi"/>
+				<Item Name="svc_Check for Waveform Parameter Continuity (N Ch).vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/svc_Check for Waveform Parameter Continuity (N Ch).vi"/>
+				<Item Name="svc_Check for Waveform Parameter Continuity (no state).vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/svc_Check for Waveform Parameter Continuity (no state).vi"/>
+				<Item Name="svc_Check Frequency Range in Bandwidth.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/svc_Check Frequency Range in Bandwidth.vi"/>
+				<Item Name="svc_Check Frequency Range in Spectrum.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/svc_Check Frequency Range in Spectrum.vi"/>
+				<Item Name="svc_Check Frequency Range.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/svc_Check Frequency Range.vi"/>
+				<Item Name="svc_Clear Error Cluster for Specific Code.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/svc_Clear Error Cluster for Specific Code.vi"/>
+				<Item Name="svc_Coerce Index and Length.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/svc_Coerce Index and Length.vi"/>
+				<Item Name="svc_Complex Datatype Defaults.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/svc_Complex Datatype Defaults.vi"/>
 				<Item Name="svc_Complimentary Spectrum Units.ctl" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Controls/svc_Complimentary Spectrum Units.ctl"/>
 				<Item Name="svc_Compute Scale Factor to Convert C to EU.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_Compute Scale Factor to Convert C to EU.vi"/>
 				<Item Name="svc_Compute Scale Factor to Convert V to EU.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_Compute Scale Factor to Convert V to EU.vi"/>
-				<Item Name="svc_Conditional Merge Error.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_Conditional Merge Error.vi"/>
-				<Item Name="svc_Convert Array of Peaks to X and Y Arrays.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_Convert Array of Peaks to X and Y Arrays.vi"/>
-				<Item Name="svc_Convert Array of Peaks to XY Format.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_Convert Array of Peaks to XY Format.vi"/>
-				<Item Name="svc_Convert Frequency to Frequency String.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_Convert Frequency to Frequency String.vi"/>
-				<Item Name="svc_Convert Sort Indices to Unsort Indices.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_Convert Sort Indices to Unsort Indices.vi"/>
-				<Item Name="svc_Convert Spectrum Array to dB.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_Convert Spectrum Array to dB.vi"/>
-				<Item Name="svc_Convert Start and Stop to Start Index and Length.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_Convert Start and Stop to Start Index and Length.vi"/>
-				<Item Name="svc_Copy Array Subset (Index).vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_Copy Array Subset (Index).vi"/>
-				<Item Name="svc_Copy Waveform Subset (Index).vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_Copy Waveform Subset (Index).vi"/>
-				<Item Name="svc_Create X Array from x0 dx and length.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_Create X Array from x0 dx and length.vi"/>
+				<Item Name="svc_Conditional Merge Error.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/svc_Conditional Merge Error.vi"/>
+				<Item Name="svc_Convert Array of Peaks to X and Y Arrays.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/svc_Convert Array of Peaks to X and Y Arrays.vi"/>
+				<Item Name="svc_Convert Array of Peaks to XY Format.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/svc_Convert Array of Peaks to XY Format.vi"/>
+				<Item Name="svc_Convert Frequency to Frequency String.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/svc_Convert Frequency to Frequency String.vi"/>
+				<Item Name="svc_Convert Sort Indices to Unsort Indices.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/svc_Convert Sort Indices to Unsort Indices.vi"/>
+				<Item Name="svc_Convert Spectrum Array to dB.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/svc_Convert Spectrum Array to dB.vi"/>
+				<Item Name="svc_Convert Start and Stop to Start Index and Length.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/svc_Convert Start and Stop to Start Index and Length.vi"/>
+				<Item Name="svc_Copy Array Subset (Index).vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/svc_Copy Array Subset (Index).vi"/>
+				<Item Name="svc_Copy Waveform Subset (Index).vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/svc_Copy Waveform Subset (Index).vi"/>
+				<Item Name="svc_Create X Array from x0 dx and length.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/svc_Create X Array from x0 dx and length.vi"/>
 				<Item Name="svc_Delete Data Options (enum).ctl" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Controls/svc_Delete Data Options (enum).ctl"/>
 				<Item Name="svc_DSA Channel Settings.ctl" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Controls/svc_DSA Channel Settings.ctl"/>
 				<Item Name="svc_Engineering Units Text Ring.ctl" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Controls/svc_Engineering Units Text Ring.ctl"/>
-				<Item Name="svc_Engineering Units to Unit Label.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_Engineering Units to Unit Label.vi"/>
-				<Item Name="svc_Extract Single Tone Information (complex).vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_Extract Single Tone Information (complex).vi"/>
-				<Item Name="svc_Extract Unit Label (channel info).vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_Extract Unit Label (channel info).vi"/>
-				<Item Name="svc_FFT with Window.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_FFT with Window.vi"/>
-				<Item Name="svc_Find Greatest Common Divisor (DBL).vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_Find Greatest Common Divisor (DBL).vi"/>
-				<Item Name="svc_Fit Quadratic to Max Three Points in Array.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_Fit Quadratic to Max Three Points in Array.vi"/>
-				<Item Name="svc_Format Value (DBL).vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_Format Value (DBL).vi"/>
+				<Item Name="svc_Engineering Units to Unit Label.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/svc_Engineering Units to Unit Label.vi"/>
+				<Item Name="svc_Extract Single Tone Information (complex).vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/svc_Extract Single Tone Information (complex).vi"/>
+				<Item Name="svc_Extract Unit Label (channel info).vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/svc_Extract Unit Label (channel info).vi"/>
+				<Item Name="svc_FFT with Window.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/svc_FFT with Window.vi"/>
+				<Item Name="svc_Find Greatest Common Divisor (DBL).vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/svc_Find Greatest Common Divisor (DBL).vi"/>
+				<Item Name="svc_Fit Quadratic to Max Three Points in Array.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/svc_Fit Quadratic to Max Three Points in Array.vi"/>
+				<Item Name="svc_Format Value (DBL).vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/svc_Format Value (DBL).vi"/>
 				<Item Name="svc_Get Array Subset (Index).vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/svc_Get Array Subset (Index).vi"/>
-				<Item Name="svc_Get Array Subset (Index).vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_Get Array Subset (Index).vi"/>
-				<Item Name="svc_Get SV Channel Info.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_Get SV Channel Info.vi"/>
+				<Item Name="svc_Get SV Channel Info.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/svc_Get SV Channel Info.vi"/>
 				<Item Name="svc_Get Tachometer Channel Info.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/svc_Get Tachometer Channel Info.vi"/>
-				<Item Name="svc_Get Waveform Subset (Index).vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_Get Waveform Subset (Index).vi"/>
-				<Item Name="svc_Get Weighting Enum and Labels.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_Get Weighting Enum and Labels.vi"/>
-				<Item Name="svc_Get Window Info.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_Get Window Info.vi"/>
-				<Item Name="svc_Get X-Axis Strings.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_Get X-Axis Strings.vi"/>
-				<Item Name="svc_Is X a Factor of Y.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_Is X a Factor of Y.vi"/>
+				<Item Name="svc_Get Waveform Subset (Index).vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/svc_Get Waveform Subset (Index).vi"/>
+				<Item Name="svc_Get Weighting Enum and Labels.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/svc_Get Weighting Enum and Labels.vi"/>
+				<Item Name="svc_Get Window Info.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/svc_Get Window Info.vi"/>
+				<Item Name="svc_Get X-Axis Strings.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/svc_Get X-Axis Strings.vi"/>
+				<Item Name="svc_Is X a Factor of Y.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/svc_Is X a Factor of Y.vi"/>
 				<Item Name="svc_Log View for Power Spectrum (1 Ch).vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_Log View for Power Spectrum (1 Ch).vi"/>
-				<Item Name="svc_Log View for Spectrum (1Ch).vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_Log View for Spectrum (1Ch).vi"/>
+				<Item Name="svc_Log View for Spectrum (1Ch).vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/svc_Log View for Spectrum (1Ch).vi"/>
 				<Item Name="svc_Log View for Spectrum (MxN).vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/svc_Log View for Spectrum (MxN).vi"/>
 				<Item Name="svc_Log View for Spectrum (N Ch).vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/svc_Log View for Spectrum (N Ch).vi"/>
 				<Item Name="svc_Resampled Channel Info.ctl" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Controls/svc_Resampled Channel Info.ctl"/>
@@ -628,22 +626,22 @@
 				<Item Name="svc_Set SV Channel Info (SGL).vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_Set SV Channel Info (SGL).vi"/>
 				<Item Name="svc_Set SV Channel Info (variant).vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_Set SV Channel Info (variant).vi"/>
 				<Item Name="svc_Set SV Channel Info.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_Set SV Channel Info.vi"/>
-				<Item Name="svc_Sort Peak Results.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_Sort Peak Results.vi"/>
+				<Item Name="svc_Sort Peak Results.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/svc_Sort Peak Results.vi"/>
 				<Item Name="svc_Spectrum Info.ctl" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Controls/svc_Spectrum Info.ctl"/>
-				<Item Name="svc_Spectrum Labels and Units.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_Spectrum Labels and Units.vi"/>
+				<Item Name="svc_Spectrum Labels and Units.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/svc_Spectrum Labels and Units.vi"/>
 				<Item Name="svc_Spectrum Type.ctl" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Controls/svc_Spectrum Type.ctl"/>
-				<Item Name="svc_Spectrum Units.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_Spectrum Units.vi"/>
+				<Item Name="svc_Spectrum Units.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/svc_Spectrum Units.vi"/>
 				<Item Name="svc_Surround Format String.ctl" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Controls/svc_Surround Format String.ctl"/>
-				<Item Name="svc_Surround NonAlpha String with Parentheses.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_Surround NonAlpha String with Parentheses.vi"/>
-				<Item Name="svc_Unit Label Lexical Class.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_Unit Label Lexical Class.vi"/>
-				<Item Name="svc_Unit Label Manipulation.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_Unit Label Manipulation.vi"/>
-				<Item Name="svc_Unit Label to Engineering Units.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_Unit Label to Engineering Units.vi"/>
-				<Item Name="svc_Unwrap Phase.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_Unwrap Phase.vi"/>
+				<Item Name="svc_Surround NonAlpha String with Parentheses.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/svc_Surround NonAlpha String with Parentheses.vi"/>
+				<Item Name="svc_Unit Label Lexical Class.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/svc_Unit Label Lexical Class.vi"/>
+				<Item Name="svc_Unit Label Manipulation.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/svc_Unit Label Manipulation.vi"/>
+				<Item Name="svc_Unit Label to Engineering Units.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/svc_Unit Label to Engineering Units.vi"/>
+				<Item Name="svc_Unwrap Phase.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/svc_Unwrap Phase.vi"/>
 				<Item Name="svc_Waveform Parameters.ctl" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Controls/svc_Waveform Parameters.ctl"/>
 				<Item Name="svc_Weighting Filter Text Ring.ctl" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Controls/svc_Weighting Filter Text Ring.ctl"/>
-				<Item Name="svc_Weighting to Weighting Label.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_Weighting to Weighting Label.vi"/>
+				<Item Name="svc_Weighting to Weighting Label.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/svc_Weighting to Weighting Label.vi"/>
 				<Item Name="svc_Window [Dual FFT].ctl" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Controls/svc_Window [Dual FFT].ctl"/>
-				<Item Name="svc_Window Parameters.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_Window Parameters.vi"/>
+				<Item Name="svc_Window Parameters.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/svc_Window Parameters.vi"/>
 				<Item Name="svc_Window.ctl" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Controls/svc_Window.ctl"/>
 				<Item Name="svc_X-Axis Units.ctl" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Controls/svc_X-Axis Units.ctl"/>
 				<Item Name="SVFA Extract Multiple Tone Information (Complex) (1 Ch).vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Spectrum Processing/SVFA Extract Multiple Tone Information (Complex) (1 Ch).vi"/>
@@ -712,11 +710,11 @@
 				<Item Name="SVFA Wrap or Unwrap Phase (XY) (1 Ch).vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Spectrum Processing/SVFA Wrap or Unwrap Phase (XY) (1 Ch).vi"/>
 				<Item Name="SVFA Wrap or Unwrap Phase (XY) (N Ch).vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Spectrum Processing/SVFA Wrap or Unwrap Phase (XY) (N Ch).vi"/>
 				<Item Name="SVFA Wrap or Unwrap Phase.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Spectrum Processing/SVFA Wrap or Unwrap Phase.vi"/>
-				<Item Name="svfa_Average Array (complex) No State.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Spectrum Averaging/svfa_Average Array (complex) No State.vi"/>
+				<Item Name="svfa_Average Array (complex) No State.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Spectrum Averaging/svfa_Average Array (complex) No State.vi"/>
 				<Item Name="svfa_Average Array (complex) No State_spectrum state.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Spectrum Averaging/svfa_Average Array (complex) No State_spectrum state.vi"/>
 				<Item Name="svfa_Average Array (real) No State.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Spectrum Averaging/svfa_Average Array (real) No State.vi"/>
 				<Item Name="svfa_Average Array (real) No State_spectrum state.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Spectrum Averaging/svfa_Average Array (real) No State_spectrum state.vi"/>
-				<Item Name="svfa_Average Array.vim" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Spectrum Averaging/svfa_Average Array.vim"/>
+				<Item Name="svfa_Average Array.vim" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Spectrum Averaging/svfa_Average Array.vim"/>
 				<Item Name="svfa_Build Spectrum Info (1xM) (Dual).vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Spectrum Info/svfa_Build Spectrum Info (1xM) (Dual).vi"/>
 				<Item Name="svfa_Build Spectrum Info (Dual).vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Spectrum Info/svfa_Build Spectrum Info (Dual).vi"/>
 				<Item Name="svfa_Build Spectrum Info (N Ch).vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Spectrum Info/svfa_Build Spectrum Info (N Ch).vi"/>
@@ -753,13 +751,13 @@
 				<Item Name="svfa_Initial Guess for Tone Estimation (magnitude).vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Spectrum Processing/subVIs/svfa_Initial Guess for Tone Estimation (magnitude).vi"/>
 				<Item Name="svfa_Initial Guess for Tone Estimation.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Spectrum Processing/subVIs/svfa_Initial Guess for Tone Estimation.vi"/>
 				<Item Name="svfa_Initialize Averaging State (N Ch).vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Spectrum Averaging/svfa_Initialize Averaging State (N Ch).vi"/>
-				<Item Name="svfa_Linear OneShot or AutoRestart Averaging Done.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Spectrum Averaging/svfa_Linear OneShot or AutoRestart Averaging Done.vi"/>
+				<Item Name="svfa_Linear OneShot or AutoRestart Averaging Done.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Spectrum Averaging/svfa_Linear OneShot or AutoRestart Averaging Done.vi"/>
 				<Item Name="svfa_Linear to dB.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Spectrum Processing/subVIs/svfa_Linear to dB.vi"/>
 				<Item Name="svfa_Locate Three Fingers (complex).vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Spectrum Processing/subVIs/svfa_Locate Three Fingers (complex).vi"/>
 				<Item Name="svfa_Mag to Mag2.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Spectrum Processing/subVIs/svfa_Mag to Mag2.vi"/>
 				<Item Name="svfa_Modify Enhanced Spectrum Info (Dual).vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Spectrum Info/svfa_Modify Enhanced Spectrum Info (Dual).vi"/>
-				<Item Name="svfa_No Average Array.vim" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Spectrum Averaging/svfa_No Average Array.vim"/>
-				<Item Name="svfa_Peak Hold Array.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Spectrum Averaging/svfa_Peak Hold Array.vi"/>
+				<Item Name="svfa_No Average Array.vim" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Spectrum Averaging/svfa_No Average Array.vim"/>
+				<Item Name="svfa_Peak Hold Array.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Spectrum Averaging/svfa_Peak Hold Array.vi"/>
 				<Item Name="svfa_Peak Rough Search Indices.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Spectrum Processing/subVIs/svfa_Peak Rough Search Indices.vi"/>
 				<Item Name="svfa_Peak to RMS to Peak2Peak.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Spectrum Processing/subVIs/svfa_Peak to RMS to Peak2Peak.vi"/>
 				<Item Name="svfa_Process FRF (1xM).vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Baseband FFT/subVIs/svfa_Process FRF (1xM).vi"/>
@@ -768,7 +766,7 @@
 				<Item Name="svfa_Process FRF (NxM).vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Baseband FFT/subVIs/svfa_Process FRF (NxM).vi"/>
 				<Item Name="svfa_Process FRF.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Baseband FFT/subVIs/svfa_Process FRF.vi"/>
 				<Item Name="svfa_Rect Window Frequency Response.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Spectrum Processing/subVIs/svfa_Rect Window Frequency Response.vi"/>
-				<Item Name="svfa_Reset Averaging State Info.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Spectrum Averaging/svfa_Reset Averaging State Info.vi"/>
+				<Item Name="svfa_Reset Averaging State Info.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Spectrum Averaging/svfa_Reset Averaging State Info.vi"/>
 				<Item Name="svfa_Scaled Time Domain Window (1 Ch).vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Windowing/svfa_Scaled Time Domain Window (1 Ch).vi"/>
 				<Item Name="svfa_Scaled Time Domain Window (1xM) (Dual).vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Windowing/svfa_Scaled Time Domain Window (1xM) (Dual).vi"/>
 				<Item Name="svfa_Scaled Time Domain Window (Array).vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Windowing/svfa_Scaled Time Domain Window (Array).vi"/>
@@ -801,11 +799,11 @@
 				<Item Name="SVL AC &amp; DC Level (Time) (1 Ch).vi" Type="VI" URL="/&lt;vilib&gt;/addons/Sound and Vibration/svt_Level/SVL AC &amp; DC Level (Time) (1 Ch).vi"/>
 				<Item Name="SVL AC &amp; DC Level (Time) (N Ch).vi" Type="VI" URL="/&lt;vilib&gt;/addons/Sound and Vibration/svt_Level/SVL AC &amp; DC Level (Time) (N Ch).vi"/>
 				<Item Name="SVL AC &amp; DC Level.vi" Type="VI" URL="/&lt;vilib&gt;/addons/Sound and Vibration/svt_Level/SVL AC &amp; DC Level.vi"/>
-				<Item Name="SVL Set dB Reference (1 Ch).vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/SVL Set dB Reference (1 Ch).vi"/>
-				<Item Name="SVL Set dB Reference (N Ch - 1 Ref).vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/SVL Set dB Reference (N Ch - 1 Ref).vi"/>
-				<Item Name="SVL Set dB Reference (N Ch - N Ref).vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/SVL Set dB Reference (N Ch - N Ref).vi"/>
-				<Item Name="SVL Set dB Reference (variant).vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/SVL Set dB Reference (variant).vi"/>
-				<Item Name="SVL Set dB Reference.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/SVL Set dB Reference.vi"/>
+				<Item Name="SVL Set dB Reference (1 Ch).vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/SVL Set dB Reference (1 Ch).vi"/>
+				<Item Name="SVL Set dB Reference (N Ch - 1 Ref).vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/SVL Set dB Reference (N Ch - 1 Ref).vi"/>
+				<Item Name="SVL Set dB Reference (N Ch - N Ref).vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/SVL Set dB Reference (N Ch - N Ref).vi"/>
+				<Item Name="SVL Set dB Reference (variant).vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/SVL Set dB Reference (variant).vi"/>
+				<Item Name="SVL Set dB Reference.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/SVL Set dB Reference.vi"/>
 				<Item Name="svl_Build dB Label (channel info).vi" Type="VI" URL="/&lt;vilib&gt;/addons/Sound and Vibration/svt_Level/subVIs/svl_Build dB Label (channel info).vi"/>
 				<Item Name="svl_Check Data Valid (N Ch) [SLM].vi" Type="VI" URL="/&lt;vilib&gt;/addons/Sound and Vibration/svt_Level/subVIs/svl_Check Data Valid (N Ch) [SLM].vi"/>
 				<Item Name="svl_Check Data Valid [SLM].vi" Type="VI" URL="/&lt;vilib&gt;/addons/Sound and Vibration/svt_Level/subVIs/svl_Check Data Valid [SLM].vi"/>
@@ -957,7 +955,7 @@
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_postActionVIID" Type="Ref">/My Computer/Frequency Response.lvlib/Advanced/Build Assets/Post-Build Action.vi</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{C7BE7403-723D-4F94-9449-76F94670BED4}</Property>
-				<Property Name="Bld_version.build" Type="Int">2</Property>
+				<Property Name="Bld_version.build" Type="Int">11</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">FrequencyResponse.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/dev/digital-microphone/builds/NI_AB_PROJECTNAME/FrequencyResponse.exe</Property>
@@ -968,7 +966,7 @@
 				<Property Name="Destination[1].path" Type="Path">/C/dev/digital-microphone/builds/NI_AB_PROJECTNAME/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{F3C8B6DE-16CC-4D86-A319-D449C8D6D559}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{6A9BE9F9-11A2-4330-87B7-3A354F8E2DFA}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Frequency Response.lvlib/Get Service Descriptor.vi</Property>
@@ -1022,7 +1020,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{C0FD9668-7D67-4606-A399-97C41258E1CB}</Property>
-				<Property Name="Bld_version.build" Type="Int">11</Property>
+				<Property Name="Bld_version.build" Type="Int">28</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Frequency Response UI.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">../NI_AB_PROJECTNAME/BuiltUI/Frequency Response UI.lvlibp</Property>
@@ -1034,7 +1032,7 @@
 				<Property Name="Destination[1].path.type" Type="Str">relativeToProject</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="PackedLib_callersAdapt" Type="Bool">true</Property>
-				<Property Name="Source[0].itemID" Type="Str">{28B53F39-0A1B-40A2-96F8-04C240037C79}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{2CF9FBC3-D91B-4B1A-98C0-BE7F27E057A9}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Frequency Response UI.lvlib</Property>
