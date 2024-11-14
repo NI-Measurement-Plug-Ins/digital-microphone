@@ -398,10 +398,9 @@
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
 				<Property Name="Bld_localDestDir" Type="Path">/C/dev/digital-microphone/builds/Calibrate Acoustic Output Level</Property>
-				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_postActionVIID" Type="Ref">/My Computer/Calibrate Acoustic Output Level.lvlib/Advanced/Build Assets/Post-Build Action.vi</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{402C1B54-02E0-4F09-B617-4A38B42ED930}</Property>
-				<Property Name="Bld_version.build" Type="Int">5</Property>
+				<Property Name="Bld_version.build" Type="Int">24</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">CalibrateAcousticOutputLevel.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/dev/digital-microphone/builds/Calibrate Acoustic Output Level/CalibrateAcousticOutputLevel.exe</Property>
@@ -412,7 +411,7 @@
 				<Property Name="Destination[1].path" Type="Path">/C/dev/digital-microphone/builds/Calibrate Acoustic Output Level/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{5E5CF374-7C9D-4BE8-A786-23DF15A99512}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{069BCD29-5544-4ACD-81CD-DA5BA0325B6D}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Calibrate Acoustic Output Level.lvlib/Get Service Descriptor.vi</Property>
@@ -466,7 +465,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{831A63F0-EAB3-4C50-BA50-06934302EC85}</Property>
-				<Property Name="Bld_version.build" Type="Int">7</Property>
+				<Property Name="Bld_version.build" Type="Int">10</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Calibrate Acoustic Output Level UI.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">../Calibrate Acoustic Output Level/BuiltUI/Calibrate Acoustic Output Level UI.lvlibp</Property>
