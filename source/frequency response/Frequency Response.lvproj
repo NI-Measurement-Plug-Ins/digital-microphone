@@ -297,8 +297,10 @@
 				<Item Name="ex_Modify Signals Names.vi" Type="VI" URL="/&lt;vilib&gt;/express/express shared/ex_Modify Signals Names.vi"/>
 				<Item Name="Find Tag.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Find Tag.vi"/>
 				<Item Name="Format Message String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Format Message String.vi"/>
+				<Item Name="FormatTime String.vi" Type="VI" URL="/&lt;vilib&gt;/express/express execution control/ElapsedTimeBlock.llb/FormatTime String.vi"/>
 				<Item Name="General Error Handler Core CORE.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/General Error Handler Core CORE.vi"/>
 				<Item Name="General Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/General Error Handler.vi"/>
+				<Item Name="Get Buffer Read Timestamp and Length.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Data Objects/Waveforms (DBL)/Get Buffer Read Timestamp and Length.vi"/>
 				<Item Name="Get Channel Count.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Data Objects/subVIs/Get Channel Count.vi"/>
 				<Item Name="Get Data Length.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Data Objects/subVIs/Get Data Length.vi"/>
 				<Item Name="Get Data Offset (x0).vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Data Objects/subVIs/Get Data Offset (x0).vi"/>
@@ -313,6 +315,7 @@
 				<Item Name="Get Reader Timestamp.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Data Objects/subVIs/Get Reader Timestamp.vi"/>
 				<Item Name="Get String Text Bounds.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Get String Text Bounds.vi"/>
 				<Item Name="Get System Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/sysdir.llb/Get System Directory.vi"/>
+				<Item Name="Get Test Signal Configuration.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Data Objects/subVIs/Get Test Signal Configuration.vi"/>
 				<Item Name="Get Text Rect.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Get Text Rect.vi"/>
 				<Item Name="Get XY Value.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTOps.llb/Get XY Value.vi"/>
 				<Item Name="GetHelpDir.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/GetHelpDir.vi"/>
@@ -416,12 +419,14 @@
 				<Item Name="Set Cursor (Icon Pict).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/cursorutil.llb/Set Cursor (Icon Pict).vi"/>
 				<Item Name="Set Cursor.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/cursorutil.llb/Set Cursor.vi"/>
 				<Item Name="Set Data Length.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Data Objects/subVIs/Set Data Length.vi"/>
+				<Item Name="Set Data Sample Interval (dt).vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Data Objects/subVIs/Set Data Sample Interval (dt).vi"/>
 				<Item Name="Set Data Timestamp.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Data Objects/subVIs/Set Data Timestamp.vi"/>
 				<Item Name="Set Difference.vim" Type="VI" URL="/&lt;vilib&gt;/set operations/Set Difference.vim"/>
 				<Item Name="Set Maximum Data Duration.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Data Objects/subVIs/Set Maximum Data Duration.vi"/>
 				<Item Name="Set Maximum Data Length.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Data Objects/subVIs/Set Maximum Data Length.vi"/>
 				<Item Name="Set Reader Timestamp.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Data Objects/subVIs/Set Reader Timestamp.vi"/>
 				<Item Name="Set String Value.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Set String Value.vi"/>
+				<Item Name="Set Test Signal Configuration.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Data Objects/subVIs/Set Test Signal Configuration.vi"/>
 				<Item Name="sfva_Get SV Info from Spectrum Info Description.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Spectrum Info/sfva_Get SV Info from Spectrum Info Description.vi"/>
 				<Item Name="sfva_Set SV Info in Spectrum Info Description.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Spectrum Info/sfva_Set SV Info in Spectrum Info Description.vi"/>
 				<Item Name="Share Stop Signal.vi" Type="VI" URL="/&lt;vilib&gt;/ChannelSupport/Share Stop Signal.vi"/>
@@ -445,6 +450,7 @@
 				<Item Name="Stall Data Flow.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/Stall Data Flow.vim"/>
 				<Item Name="STR_ASCII-Unicode.vi" Type="VI" URL="/&lt;vilib&gt;/registry/registry.llb/STR_ASCII-Unicode.vi"/>
 				<Item Name="subDisplayMessage.vi" Type="VI" URL="/&lt;vilib&gt;/express/express output/DisplayMessageBlock.llb/subDisplayMessage.vi"/>
+				<Item Name="subElapsedTime.vi" Type="VI" URL="/&lt;vilib&gt;/express/express execution control/ElapsedTimeBlock.llb/subElapsedTime.vi"/>
 				<Item Name="subResample.vi" Type="VI" URL="/&lt;vilib&gt;/express/express signal manip/AlignandResampleBlock.llb/subResample.vi"/>
 				<Item Name="subTimeDelay.vi" Type="VI" URL="/&lt;vilib&gt;/express/express execution control/TimeDelayBlock.llb/subTimeDelay.vi"/>
 				<Item Name="SV Aggregate Data (Complex Spectrum).vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/SV Aggregate Data (Complex Spectrum).vi"/>
@@ -516,6 +522,7 @@
 				<Item Name="sv_Check for Array Change (spectrum).vi" Type="VI" URL="/&lt;vilib&gt;/Addons/Sound and Vibration/svt_Weighting/subVIs/sv_Check for Array Change (spectrum).vi"/>
 				<Item Name="sv_Check for df Change.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/Sound and Vibration/svt_Weighting/subVIs/sv_Check for df Change.vi"/>
 				<Item Name="sv_Check for f0 Change.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/Sound and Vibration/svt_Weighting/subVIs/sv_Check for f0 Change.vi"/>
+				<Item Name="sv_Check for Timeout.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/sv_Check for Timeout.vi"/>
 				<Item Name="sv_Check for Weighting Change (spectrum).vi" Type="VI" URL="/&lt;vilib&gt;/Addons/Sound and Vibration/svt_Weighting/subVIs/sv_Check for Weighting Change (spectrum).vi"/>
 				<Item Name="sv_Check for Weighting Change (time signal).vi" Type="VI" URL="/&lt;vilib&gt;/Addons/Sound and Vibration/svt_Weighting/subVIs/sv_Check for Weighting Change (time signal).vi"/>
 				<Item Name="sv_Check for Weighting Conflict (N Ch).vi" Type="VI" URL="/&lt;vilib&gt;/Addons/Sound and Vibration/svt_Weighting/subVIs/sv_Check for Weighting Conflict (N Ch).vi"/>
@@ -589,6 +596,7 @@
 				<Item Name="svc_Complimentary Spectrum Units.ctl" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Controls/svc_Complimentary Spectrum Units.ctl"/>
 				<Item Name="svc_Compute Scale Factor to Convert C to EU.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_Compute Scale Factor to Convert C to EU.vi"/>
 				<Item Name="svc_Compute Scale Factor to Convert V to EU.vi" Type="VI" URL="/&lt;vilib&gt;/Addons/_NISVFA/_Shared subVIs/Common/svc_Compute Scale Factor to Convert V to EU.vi"/>
+				<Item Name="svc_Conditional Merge Array of Errors.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/svc_Conditional Merge Array of Errors.vi"/>
 				<Item Name="svc_Conditional Merge Error.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/svc_Conditional Merge Error.vi"/>
 				<Item Name="svc_Convert Array of Peaks to X and Y Arrays.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/svc_Convert Array of Peaks to X and Y Arrays.vi"/>
 				<Item Name="svc_Convert Array of Peaks to XY Format.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Common/svc_Convert Array of Peaks to XY Format.vi"/>
@@ -774,6 +782,7 @@
 				<Item Name="svfa_Scaled Time Domain Window (N Ch).vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Windowing/svfa_Scaled Time Domain Window (N Ch).vi"/>
 				<Item Name="svfa_Scaled Time Domain Window (Nx1) (Dual).vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Windowing/svfa_Scaled Time Domain Window (Nx1) (Dual).vi"/>
 				<Item Name="svfa_Scaled Time Domain Window (NxM) (Dual).vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Windowing/svfa_Scaled Time Domain Window (NxM) (Dual).vi"/>
+				<Item Name="svfa_Set Averaging Mode in Spectrum Info.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Shared subVIs/Spectrum Info/svfa_Set Averaging Mode in Spectrum Info.vi"/>
 				<Item Name="svfa_Spectral Compensation for Other Tones.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Spectrum Processing/subVIs/svfa_Spectral Compensation for Other Tones.vi"/>
 				<Item Name="svfa_Spectrum Info Window to windowTd Type Def.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Spectrum Processing/subVIs/svfa_Spectrum Info Window to windowTd Type Def.vi"/>
 				<Item Name="svfa_Spectrum Peak Search.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_NISVFA/_Spectrum Processing/subVIs/svfa_Spectrum Peak Search.vi"/>
@@ -881,7 +890,6 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="Align Waveforms by Leading Sync Pulse.vi" Type="VI" URL="../../shared/measurements/sound and vibration/Align Waveforms by Leading Sync Pulse.vi"/>
-			<Item Name="analog input settings.ctl" Type="VI" URL="../../service/generation/controls/analog input settings.ctl"/>
 			<Item Name="bit clock direction.ctl" Type="VI" URL="../../shared/controls/bit clock direction.ctl"/>
 			<Item Name="ChannelProbePositionAndTitle.vi" Type="VI" URL="/&lt;resource&gt;/ChannelSupport/_ChannelSupport/ChannelProbePositionAndTitle.vi"/>
 			<Item Name="ChannelProbeWindowStagger.vi" Type="VI" URL="/&lt;resource&gt;/ChannelSupport/_ChannelSupport/ChannelProbeWindowStagger.vi"/>
@@ -921,8 +929,6 @@
 			<Item Name="PDM input settings.ctl" Type="VI" URL="../../shared/controls/PDM/PDM input settings.ctl"/>
 			<Item Name="PDM input settings_json.ctl" Type="VI" URL="../../shared/controls/PDM/PDM input settings_json.ctl"/>
 			<Item Name="Prepare Acquired Waveforms for Parsing.vi" Type="VI" URL="../../shared/measurements/sound and vibration/Prepare Acquired Waveforms for Parsing.vi"/>
-			<Item Name="Read From File.vi" Type="VI" URL="../../shared/analog input settings/Read From File.vi"/>
-			<Item Name="Save To File.vi" Type="VI" URL="../../shared/analog input settings/Save To File.vi"/>
 			<Item Name="Set Visible Plot.vi" Type="VI" URL="../../shared/ui/Set Visible Plot.vi"/>
 			<Item Name="single tone microphone measurement settings.ctl" Type="VI" URL="../../shared/measurements/controls/single tone microphone measurement settings.ctl"/>
 			<Item Name="Single Tone Microphone Measurements (N Ch).vi" Type="VI" URL="../../shared/measurements/Single Tone Microphone Measurements (N Ch).vi"/>
@@ -934,7 +940,6 @@
 			<Item Name="sweep profile.ctl" Type="VI" URL="../../shared/controls/sweep profile.ctl"/>
 			<Item Name="Tag-bool.lvlib" Type="Library" URL="/&lt;extravilib&gt;/ChannelInstances/Tag-bool.lvlib"/>
 			<Item Name="Tag-c(ref(UserDefinedRefnumTag),t&apos;Rendezvous RefNum&apos;).lvlib" Type="Library" URL="/&lt;extravilib&gt;/ChannelInstances/Tag-c(ref(UserDefinedRefnumTag),t&apos;Rendezvous RefNum&apos;).lvlib"/>
-			<Item Name="terminal configuration.ctl" Type="VI" URL="../../service/generation/controls/terminal configuration.ctl"/>
 			<Item Name="UI Helpers.lvlib" Type="Library" URL="../../shared/ui/UI Helpers.lvlib"/>
 			<Item Name="units settings - mic.ctl" Type="VI" URL="../../shared/measurements/controls/units settings - mic.ctl"/>
 		</Item>
@@ -952,10 +957,9 @@
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
 				<Property Name="Bld_localDestDir" Type="Path">/C/dev/digital-microphone/builds/NI_AB_PROJECTNAME</Property>
-				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_postActionVIID" Type="Ref">/My Computer/Frequency Response.lvlib/Advanced/Build Assets/Post-Build Action.vi</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{C7BE7403-723D-4F94-9449-76F94670BED4}</Property>
-				<Property Name="Bld_version.build" Type="Int">11</Property>
+				<Property Name="Bld_version.build" Type="Int">15</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">FrequencyResponse.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/dev/digital-microphone/builds/NI_AB_PROJECTNAME/FrequencyResponse.exe</Property>
@@ -966,7 +970,7 @@
 				<Property Name="Destination[1].path" Type="Path">/C/dev/digital-microphone/builds/NI_AB_PROJECTNAME/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{6A9BE9F9-11A2-4330-87B7-3A354F8E2DFA}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{804BDC7D-597C-45F7-9075-3E5E324E9DA8}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Frequency Response.lvlib/Get Service Descriptor.vi</Property>
@@ -1020,7 +1024,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{C0FD9668-7D67-4606-A399-97C41258E1CB}</Property>
-				<Property Name="Bld_version.build" Type="Int">28</Property>
+				<Property Name="Bld_version.build" Type="Int">34</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Frequency Response UI.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">../NI_AB_PROJECTNAME/BuiltUI/Frequency Response UI.lvlibp</Property>
