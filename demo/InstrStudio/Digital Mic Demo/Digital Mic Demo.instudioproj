@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SourceFile Checksum="E6108EA98C3F35F9F29A375C12490F2EF7FD5FF1D8CA65BB0013DBC1E8F778A5F954A34B221112467D062425EBB24F04A753A904CCDB4279D5246BC2D5CD4E8F" xmlns="http://www.ni.com/PlatformFramework">
+	<SourceModelFeatureSet>
+		<ParsableNamespace AssemblyFileVersion="9.14.0.49911" FeatureSetName="Editor" Name="http://www.ni.com/PlatformFramework" OldestCompatibleVersion="8.1.0.49152" Version="8.1.0.49152" />
+		<ApplicationVersionInfo Build="24.8.0.49911" Name="InstrumentStudio" PersistenceVersion="22.1.0.0" Version="24.8.0.49911" />
+	</SourceModelFeatureSet>
+	<Project xmlns="http://www.ni.com/PlatformFramework">
+		<EnvoyManagerRootEnvoy Id="601713df803040e0af780d1e1216c294" ModelDefinitionType="EnvoyManagerRootEnvoy" Name="RootEnvoy" />
+		<EmbeddedDefinitionReference Id="7548634b23f446bbbb86b756fd75bfa1" ModelDefinitionType="NationalInstruments.ProjectExplorer.Modeling.ProjectDataManager" Name="ProjectExplorer">
+			<ProjectExplorer />
+		</EmbeddedDefinitionReference>
+		<NameScopingEnvoy Id="1cc0a0adc5aa47b1b2fd224620b2d8bf" ModelDefinitionType="DefaultTarget" Name="DefaultTarget">
+			<DefaultTarget />
+			<SourceFileReference Bindings="EnvoyManager" Id="18d4e410cf8c4616bc8b881e85267aaf" ModelDefinitionType="NationalInstruments.InstrumentFramework.Document.SourceModel.UnifiedTask" Name="Power.sfp" StoragePath="Power.sfp" />
+			<SourceFileReference Bindings="EnvoyManager" Id="340f7f0df1774e509c2190231a4dc5ec" ModelDefinitionType="NationalInstruments.InstrumentFramework.Document.SourceModel.UnifiedTask" Name="Single Tone-I2S.sfp" StoragePath="Single Tone-I2S.sfp" />
+			<SourceFileReference Bindings="EnvoyManager" Id="249393912f754b0db795e653cb616374" ModelDefinitionType="NationalInstruments.InstrumentFramework.Document.SourceModel.UnifiedTask" Name="Single Tone-PDM.sfp" StoragePath="Single Tone-PDM.sfp" />
+			<SourceFileReference Bindings="EnvoyManager" Id="bfd190c5d7f845cdb165ce1e18a64f25" ModelDefinitionType="NationalInstruments.InstrumentFramework.Document.SourceModel.UnifiedTask" Name="Calibrate Acoustic Level.sfp" StoragePath="Calibrate Acoustic Level.sfp" />
+			<SourceFileReference Bindings="EnvoyManager" Id="2d75df40e1414ff381a8a8b4f72a7502" ModelDefinitionType="NationalInstruments.InstrumentFramework.Document.SourceModel.UnifiedTask" Name="FreqResponse-PDM.sfp" StoragePath="FreqResponse-PDM.sfp" />
+		</NameScopingEnvoy>
+	</Project>
+	<ProjectInformation xmlns="http://www.ni.com/PlatformFramework">
+		<p.ProjectProperties>
+			<Kind Name="plugin.reference">
+				<Item Name="Calibrate Acoustic Output Level_LabVIEW" Value="1.0.0" />
+				<Item Name="Frequency Response_LabVIEW" Value="1.0.0" />
+				<Item Name="Single Tone - Digital Mic_LabVIEW" Value="1.0.0" />
+			</Kind>
+		</p.ProjectProperties>
+	</ProjectInformation>
+</SourceFile>

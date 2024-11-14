@@ -1,0 +1,1 @@
+{"input type":"Digital Serial","digital serial":{"number of channels":2,"data justification":"Left Justified","endianness":"MSB First","channel length":32,"bit depth":24,"frame clock rate":48000,"bit clock edge sync":"Falling","master clock souce":"Internal","master clock rate":12288000,"logic level":"3.3 V","frame sync edge for channel 0":"Falling","Channel 0 Offset":1}}

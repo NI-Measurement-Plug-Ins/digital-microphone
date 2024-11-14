@@ -1,0 +1,1002 @@
+﻿<Solution xmlns:i="http://www.w3.org/2001/XMLSchema-instance" z:Id="i1" xmlns:z="http://schemas.microsoft.com/2003/10/Serialization/" xmlns="http://schemas.datacontract.org/2004/07/NationalInstruments.PackageBuilder.Engine">
+    <Name>DigitalMicrophone</Name>
+    <SourceItems>
+        <SourceItem z:Id="i2">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Calibrate Acoustic Output Level\BuiltUI\Calibrate Acoustic Output Level UI.lvlibp</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i3">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Calibrate Acoustic Output Level\CalibrateAcousticOutputLevel.aliases</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i4">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Calibrate Acoustic Output Level\CalibrateAcousticOutputLevel.exe</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i5">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Calibrate Acoustic Output Level\CalibrateAcousticOutputLevel.ini</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i6">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Calibrate Acoustic Output Level\CalibrateAcousticOutputLevel.serviceconfig</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i7">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Calibrate Acoustic Output Level\data\lvdaqmx.chm</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i8">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Calibrate Acoustic Output Level\data\sndvibtk.chm</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i9">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Calibrate Acoustic Output Level\Libraries\Linux\liblabview_grpc_server.so</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i10">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Calibrate Acoustic Output Level\Libraries\LinuxRT\liblabview_grpc_server.so</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i11">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Calibrate Acoustic Output Level\Libraries\Win32\labview_grpc_server.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i12">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Calibrate Acoustic Output Level\Libraries\Win64\feature_config.ini</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i13">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Calibrate Acoustic Output Level\Libraries\Win64\labview_grpc_server.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i14">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Frequency Response\BuiltUI\Frequency Response UI.lvlibp</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i15">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Frequency Response\BuiltUI\nisyscfg.chm</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i16">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Frequency Response\data\lvdaqmx.chm</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i17">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Frequency Response\data\nisyscfg.chm</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i18">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Frequency Response\data\sndvibtk.chm</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i19">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Frequency Response\FrequencyResponse.aliases</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i20">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Frequency Response\FrequencyResponse.exe</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i21">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Frequency Response\FrequencyResponse.ini</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i22">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Frequency Response\FrequencyResponse.serviceconfig</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i23">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Frequency Response\Libraries\Linux\liblabview_grpc_server.so</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i24">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Frequency Response\Libraries\LinuxRT\liblabview_grpc_server.so</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i25">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Frequency Response\Libraries\Win32\labview_grpc_server.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i26">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Frequency Response\Libraries\Win64\feature_config.ini</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i27">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Frequency Response\Libraries\Win64\labview_grpc_server.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i28">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Single Tone\BuiltUI\nisyscfg.chm</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i29">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Single Tone\BuiltUI\Single Tone - Digital Mic UI.lvlibp</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i30">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Single Tone\data\lvdaqmx.chm</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i31">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Single Tone\data\nisyscfg.chm</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i32">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Single Tone\data\sndvibtk.chm</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i33">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Single Tone\Libraries\Linux\liblabview_grpc_server.so</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i34">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Single Tone\Libraries\LinuxRT\liblabview_grpc_server.so</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i35">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Single Tone\Libraries\Win32\labview_grpc_server.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i36">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Single Tone\Libraries\Win64\feature_config.ini</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i37">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Single Tone\Libraries\Win64\labview_grpc_server.dll</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i38">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Single Tone\SingleTone-DigitalMic.aliases</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i39">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Single Tone\SingleTone-DigitalMic.exe</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i40">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Single Tone\SingleTone-DigitalMic.ini</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i41">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Single Tone\SingleTone-DigitalMic.serviceconfig</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i42">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Calibrate Acoustic Output Level\BuiltUI</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i2" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i43">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Calibrate Acoustic Output Level\Libraries\Linux</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i9" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i44">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Calibrate Acoustic Output Level\Libraries\LinuxRT</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i10" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i45">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Calibrate Acoustic Output Level\Libraries\Win32</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i11" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i46">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Frequency Response\Libraries\Linux</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i23" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i47">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Frequency Response\Libraries\LinuxRT</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i24" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i48">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Frequency Response\Libraries\Win32</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i25" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i49">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Single Tone\Libraries\Linux</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i33" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i50">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Single Tone\Libraries\LinuxRT</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i34" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i51">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Single Tone\Libraries\Win32</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i35" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i52">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Calibrate Acoustic Output Level\data</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i7" />
+                <SourceItem z:Ref="i8" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i53">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Calibrate Acoustic Output Level\Libraries\Win64</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i12" />
+                <SourceItem z:Ref="i13" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i54">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Frequency Response\BuiltUI</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i14" />
+                <SourceItem z:Ref="i15" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i55">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Frequency Response\Libraries\Win64</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i26" />
+                <SourceItem z:Ref="i27" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i56">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Single Tone\BuiltUI</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i28" />
+                <SourceItem z:Ref="i29" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i57">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Single Tone\Libraries\Win64</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i36" />
+                <SourceItem z:Ref="i37" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i58">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Frequency Response\data</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i16" />
+                <SourceItem z:Ref="i17" />
+                <SourceItem z:Ref="i18" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i59">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Single Tone\data</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i30" />
+                <SourceItem z:Ref="i31" />
+                <SourceItem z:Ref="i32" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i60">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Calibrate Acoustic Output Level\Libraries</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i43" />
+                <SourceItem z:Ref="i44" />
+                <SourceItem z:Ref="i45" />
+                <SourceItem z:Ref="i53" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i61">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Frequency Response\Libraries</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i46" />
+                <SourceItem z:Ref="i47" />
+                <SourceItem z:Ref="i48" />
+                <SourceItem z:Ref="i55" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i62">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Single Tone\Libraries</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i49" />
+                <SourceItem z:Ref="i50" />
+                <SourceItem z:Ref="i51" />
+                <SourceItem z:Ref="i57" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i63">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Calibrate Acoustic Output Level</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i3" />
+                <SourceItem z:Ref="i4" />
+                <SourceItem z:Ref="i5" />
+                <SourceItem z:Ref="i6" />
+                <SourceItem z:Ref="i42" />
+                <SourceItem z:Ref="i52" />
+                <SourceItem z:Ref="i60" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i64">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Frequency Response</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i19" />
+                <SourceItem z:Ref="i20" />
+                <SourceItem z:Ref="i21" />
+                <SourceItem z:Ref="i22" />
+                <SourceItem z:Ref="i54" />
+                <SourceItem z:Ref="i58" />
+                <SourceItem z:Ref="i61" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i65">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds\Single Tone</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i38" />
+                <SourceItem z:Ref="i39" />
+                <SourceItem z:Ref="i40" />
+                <SourceItem z:Ref="i41" />
+                <SourceItem z:Ref="i56" />
+                <SourceItem z:Ref="i59" />
+                <SourceItem z:Ref="i62" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i66">
+            <PluginConfigurationOptions />
+            <RelativePath>..\builds</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i63" />
+                <SourceItem z:Ref="i64" />
+                <SourceItem z:Ref="i65" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+    </SourceItems>
+    <InputSourceItems>
+        <SourceItem z:Ref="i66" />
+    </InputSourceItems>
+    <Distributions>
+        <Distribution z:Id="i67" i:type="Package">
+            <DistributionItems>
+                <DistributionItem z:Id="i68" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments</DestinationRelativePath>
+                    <Name>National Instruments</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i69" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink</DestinationRelativePath>
+                    <Name>MeasurementLink</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i70" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services</DestinationRelativePath>
+                    <Name>Services</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i71" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone</DestinationRelativePath>
+                    <Name>Digital Microphone</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i72" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Calibrate Acoustic Output Level</DestinationRelativePath>
+                    <Name>Calibrate Acoustic Output Level</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i73" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Calibrate Acoustic Output Level\CalibrateAcousticOutputLevel.aliases</DestinationRelativePath>
+                    <Name>CalibrateAcousticOutputLevel.aliases</Name>
+                    <SourceItem z:Ref="i3" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i74" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Calibrate Acoustic Output Level\CalibrateAcousticOutputLevel.exe</DestinationRelativePath>
+                    <Name>CalibrateAcousticOutputLevel.exe</Name>
+                    <SourceItem z:Ref="i4" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i75" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Calibrate Acoustic Output Level\CalibrateAcousticOutputLevel.ini</DestinationRelativePath>
+                    <Name>CalibrateAcousticOutputLevel.ini</Name>
+                    <SourceItem z:Ref="i5" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i76" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Calibrate Acoustic Output Level\CalibrateAcousticOutputLevel.serviceconfig</DestinationRelativePath>
+                    <Name>CalibrateAcousticOutputLevel.serviceconfig</Name>
+                    <SourceItem z:Ref="i6" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i77" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Calibrate Acoustic Output Level\BuiltUI</DestinationRelativePath>
+                    <Name>BuiltUI</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i78" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Calibrate Acoustic Output Level\BuiltUI\Calibrate Acoustic Output Level UI.lvlibp</DestinationRelativePath>
+                    <Name>Calibrate Acoustic Output Level UI.lvlibp</Name>
+                    <SourceItem z:Ref="i2" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i79" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Calibrate Acoustic Output Level\data</DestinationRelativePath>
+                    <Name>data</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i80" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Calibrate Acoustic Output Level\data\lvdaqmx.chm</DestinationRelativePath>
+                    <Name>lvdaqmx.chm</Name>
+                    <SourceItem z:Ref="i7" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i81" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Calibrate Acoustic Output Level\data\sndvibtk.chm</DestinationRelativePath>
+                    <Name>sndvibtk.chm</Name>
+                    <SourceItem z:Ref="i8" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i82" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Calibrate Acoustic Output Level\Libraries</DestinationRelativePath>
+                    <Name>Libraries</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i83" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Calibrate Acoustic Output Level\Libraries\Linux</DestinationRelativePath>
+                    <Name>Linux</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i84" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Calibrate Acoustic Output Level\Libraries\Linux\liblabview_grpc_server.so</DestinationRelativePath>
+                    <Name>liblabview_grpc_server.so</Name>
+                    <SourceItem z:Ref="i9" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i85" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Calibrate Acoustic Output Level\Libraries\LinuxRT</DestinationRelativePath>
+                    <Name>LinuxRT</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i86" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Calibrate Acoustic Output Level\Libraries\LinuxRT\liblabview_grpc_server.so</DestinationRelativePath>
+                    <Name>liblabview_grpc_server.so</Name>
+                    <SourceItem z:Ref="i10" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i87" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Calibrate Acoustic Output Level\Libraries\Win32</DestinationRelativePath>
+                    <Name>Win32</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i88" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Calibrate Acoustic Output Level\Libraries\Win32\labview_grpc_server.dll</DestinationRelativePath>
+                    <Name>labview_grpc_server.dll</Name>
+                    <SourceItem z:Ref="i11" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i89" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Calibrate Acoustic Output Level\Libraries\Win64</DestinationRelativePath>
+                    <Name>Win64</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i90" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Calibrate Acoustic Output Level\Libraries\Win64\feature_config.ini</DestinationRelativePath>
+                    <Name>feature_config.ini</Name>
+                    <SourceItem z:Ref="i12" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i91" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Calibrate Acoustic Output Level\Libraries\Win64\labview_grpc_server.dll</DestinationRelativePath>
+                    <Name>labview_grpc_server.dll</Name>
+                    <SourceItem z:Ref="i13" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i92" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Frequency Response</DestinationRelativePath>
+                    <Name>Frequency Response</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i93" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Frequency Response\FrequencyResponse.aliases</DestinationRelativePath>
+                    <Name>FrequencyResponse.aliases</Name>
+                    <SourceItem z:Ref="i19" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i94" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Frequency Response\FrequencyResponse.exe</DestinationRelativePath>
+                    <Name>FrequencyResponse.exe</Name>
+                    <SourceItem z:Ref="i20" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i95" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Frequency Response\FrequencyResponse.ini</DestinationRelativePath>
+                    <Name>FrequencyResponse.ini</Name>
+                    <SourceItem z:Ref="i21" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i96" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Frequency Response\FrequencyResponse.serviceconfig</DestinationRelativePath>
+                    <Name>FrequencyResponse.serviceconfig</Name>
+                    <SourceItem z:Ref="i22" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i97" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Frequency Response\BuiltUI</DestinationRelativePath>
+                    <Name>BuiltUI</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i98" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Frequency Response\BuiltUI\Frequency Response UI.lvlibp</DestinationRelativePath>
+                    <Name>Frequency Response UI.lvlibp</Name>
+                    <SourceItem z:Ref="i14" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i99" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Frequency Response\BuiltUI\nisyscfg.chm</DestinationRelativePath>
+                    <Name>nisyscfg.chm</Name>
+                    <SourceItem z:Ref="i15" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i100" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Frequency Response\data</DestinationRelativePath>
+                    <Name>data</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i101" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Frequency Response\data\lvdaqmx.chm</DestinationRelativePath>
+                    <Name>lvdaqmx.chm</Name>
+                    <SourceItem z:Ref="i16" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i102" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Frequency Response\data\nisyscfg.chm</DestinationRelativePath>
+                    <Name>nisyscfg.chm</Name>
+                    <SourceItem z:Ref="i17" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i103" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Frequency Response\data\sndvibtk.chm</DestinationRelativePath>
+                    <Name>sndvibtk.chm</Name>
+                    <SourceItem z:Ref="i18" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i104" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Frequency Response\Libraries</DestinationRelativePath>
+                    <Name>Libraries</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i105" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Frequency Response\Libraries\Linux</DestinationRelativePath>
+                    <Name>Linux</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i106" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Frequency Response\Libraries\Linux\liblabview_grpc_server.so</DestinationRelativePath>
+                    <Name>liblabview_grpc_server.so</Name>
+                    <SourceItem z:Ref="i23" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i107" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Frequency Response\Libraries\LinuxRT</DestinationRelativePath>
+                    <Name>LinuxRT</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i108" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Frequency Response\Libraries\LinuxRT\liblabview_grpc_server.so</DestinationRelativePath>
+                    <Name>liblabview_grpc_server.so</Name>
+                    <SourceItem z:Ref="i24" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i109" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Frequency Response\Libraries\Win32</DestinationRelativePath>
+                    <Name>Win32</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i110" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Frequency Response\Libraries\Win32\labview_grpc_server.dll</DestinationRelativePath>
+                    <Name>labview_grpc_server.dll</Name>
+                    <SourceItem z:Ref="i25" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i111" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Frequency Response\Libraries\Win64</DestinationRelativePath>
+                    <Name>Win64</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i112" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Frequency Response\Libraries\Win64\feature_config.ini</DestinationRelativePath>
+                    <Name>feature_config.ini</Name>
+                    <SourceItem z:Ref="i26" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i113" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Frequency Response\Libraries\Win64\labview_grpc_server.dll</DestinationRelativePath>
+                    <Name>labview_grpc_server.dll</Name>
+                    <SourceItem z:Ref="i27" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i114" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Single Tone</DestinationRelativePath>
+                    <Name>Single Tone</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i115" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Single Tone\SingleTone-DigitalMic.aliases</DestinationRelativePath>
+                    <Name>SingleTone-DigitalMic.aliases</Name>
+                    <SourceItem z:Ref="i38" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i116" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Single Tone\SingleTone-DigitalMic.exe</DestinationRelativePath>
+                    <Name>SingleTone-DigitalMic.exe</Name>
+                    <SourceItem z:Ref="i39" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i117" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Single Tone\SingleTone-DigitalMic.ini</DestinationRelativePath>
+                    <Name>SingleTone-DigitalMic.ini</Name>
+                    <SourceItem z:Ref="i40" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i118" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Single Tone\SingleTone-DigitalMic.serviceconfig</DestinationRelativePath>
+                    <Name>SingleTone-DigitalMic.serviceconfig</Name>
+                    <SourceItem z:Ref="i41" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i119" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Single Tone\BuiltUI</DestinationRelativePath>
+                    <Name>BuiltUI</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i120" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Single Tone\BuiltUI\nisyscfg.chm</DestinationRelativePath>
+                    <Name>nisyscfg.chm</Name>
+                    <SourceItem z:Ref="i28" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i121" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Single Tone\BuiltUI\Single Tone - Digital Mic UI.lvlibp</DestinationRelativePath>
+                    <Name>Single Tone - Digital Mic UI.lvlibp</Name>
+                    <SourceItem z:Ref="i29" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i122" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Single Tone\data</DestinationRelativePath>
+                    <Name>data</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i123" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Single Tone\data\lvdaqmx.chm</DestinationRelativePath>
+                    <Name>lvdaqmx.chm</Name>
+                    <SourceItem z:Ref="i30" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i124" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Single Tone\data\nisyscfg.chm</DestinationRelativePath>
+                    <Name>nisyscfg.chm</Name>
+                    <SourceItem z:Ref="i31" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i125" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Single Tone\data\sndvibtk.chm</DestinationRelativePath>
+                    <Name>sndvibtk.chm</Name>
+                    <SourceItem z:Ref="i32" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i126" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Single Tone\Libraries</DestinationRelativePath>
+                    <Name>Libraries</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i127" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Single Tone\Libraries\Linux</DestinationRelativePath>
+                    <Name>Linux</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i128" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Single Tone\Libraries\Linux\liblabview_grpc_server.so</DestinationRelativePath>
+                    <Name>liblabview_grpc_server.so</Name>
+                    <SourceItem z:Ref="i33" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i129" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Single Tone\Libraries\LinuxRT</DestinationRelativePath>
+                    <Name>LinuxRT</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i130" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Single Tone\Libraries\LinuxRT\liblabview_grpc_server.so</DestinationRelativePath>
+                    <Name>liblabview_grpc_server.so</Name>
+                    <SourceItem z:Ref="i34" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i131" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Single Tone\Libraries\Win32</DestinationRelativePath>
+                    <Name>Win32</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i132" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Single Tone\Libraries\Win32\labview_grpc_server.dll</DestinationRelativePath>
+                    <Name>labview_grpc_server.dll</Name>
+                    <SourceItem z:Ref="i35" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i133" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Single Tone\Libraries\Win64</DestinationRelativePath>
+                    <Name>Win64</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i134" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Single Tone\Libraries\Win64\feature_config.ini</DestinationRelativePath>
+                    <Name>feature_config.ini</Name>
+                    <SourceItem z:Ref="i36" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i135" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[ProgramData]\National Instruments\MeasurementLink\Services\Digital Microphone\Single Tone\Libraries\Win64\labview_grpc_server.dll</DestinationRelativePath>
+                    <Name>labview_grpc_server.dll</Name>
+                    <SourceItem z:Ref="i37" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+            </DistributionItems>
+            <Name>Digital Microphone Measurement Plug-In</Name>
+            <OutputDirectory>Packages</OutputDirectory>
+            <PluginConfigurationOptions>
+                <ConfigurationOption z:Id="i136">
+                    <Definition z:Id="i137">
+                        <Description>Publish LabVIEW NXG projects as examples or templates.</Description>
+                        <Name>Publish examples to LabVIEW NXG</Name>
+                    </Definition>
+                    <HasDefaultValues>true</HasDefaultValues>
+                    <Value z:Id="i138" i:type="DialogConfigurationOptionValue">
+                        <Values>
+                            <ConfigurationOptionValue z:Id="i139" xmlns:d8p1="http://schemas.datacontract.org/2004/07/NationalInstruments.PackageBuilder.Plugins.LabVIEWNXG" i:type="d8p1:LauncherContentConfigurationOptionValue">
+                                <d8p1:Value z:Id="i140" i:type="d8p1:LauncherRoot">
+                                    <d8p1:Children />
+                                </d8p1:Value>
+                            </ConfigurationOptionValue>
+                        </Values>
+                    </Value>
+                </ConfigurationOption>
+            </PluginConfigurationOptions>
+            <PrebuildAnalysisEnabled>true</PrebuildAnalysisEnabled>
+            <Architecture>windows_x64</Architecture>
+            <AutoIncrementVersion>Build</AutoIncrementVersion>
+            <BuildStatus z:Id="i141">
+                <BuildEverSuccessful>true</BuildEverSuccessful>
+                <FileName>community-digitalmicrophone_1.0.0.5_windows_x64.nipkg</FileName>
+                <Version>1.0.0.5</Version>
+            </BuildStatus>
+            <CompanyName>MyCompany</CompanyName>
+            <CustomExecutes />
+            <Description>Measurements for digital microphones with InstrumentStudio Pro</Description>
+            <DisplayName>Digital Microphone Measurement Plug-In</DisplayName>
+            <FileName>community-digitalmicrophone_1.0.0.6_windows_x64.nipkg</FileName>
+            <MaintainerEmail>email@mycompany.com</MaintainerEmail>
+            <MaintainerName>GitHub Community</MaintainerName>
+            <Messages xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+            <PackageName>community-digitalmicrophone</PackageName>
+            <PackageRelationships>
+                <PackageRelationship z:Id="i142">
+                    <Constraint>LaterOrEqual</Constraint>
+                    <DisplayName>LabVIEW Runtime (64-bit)</DisplayName>
+                    <PackageName>ni-labview-2022-runtime-engine</PackageName>
+                    <Relation>Depends</Relation>
+                    <Version>22.3.2.49153-0+f1</Version>
+                    <VersionType>AutoUpdate</VersionType>
+                </PackageRelationship>
+                <PackageRelationship z:Id="i143">
+                    <Constraint>LaterOrEqual</Constraint>
+                    <DisplayName>NI-DAQmx Runtime</DisplayName>
+                    <PackageName>ni-daqmx-runtime-core</PackageName>
+                    <Relation>Depends</Relation>
+                    <Version>24.6.0.49176-0+f24</Version>
+                    <VersionType>AutoUpdate</VersionType>
+                </PackageRelationship>
+                <PackageRelationship z:Id="i144">
+                    <Constraint>LaterOrEqual</Constraint>
+                    <DisplayName>Digital Audio Acquisition and Generation Toolkit Runtime Support MSI</DisplayName>
+                    <PackageName>ni-labview-pdm-acquisition-toolkit-runtime-support-bin-msi</PackageName>
+                    <Relation>Depends</Relation>
+                    <Version>23.3.0.49227-0+f75</Version>
+                    <VersionType>AutoUpdate</VersionType>
+                </PackageRelationship>
+                <PackageRelationship z:Id="i145">
+                    <Constraint>LaterOrEqual</Constraint>
+                    <DisplayName>InstrumentStudio</DisplayName>
+                    <PackageName>ni-instrumentstudio</PackageName>
+                    <Relation>Depends</Relation>
+                    <Version>24.8.0.49671-0+f519</Version>
+                    <VersionType>AutoUpdate</VersionType>
+                </PackageRelationship>
+            </PackageRelationships>
+            <ProductName>MyProduct</ProductName>
+            <Section>Add-Ons</Section>
+            <StoreProduct>true</StoreProduct>
+            <Synopsis>community-digitalmicrophone</Synopsis>
+            <Version>1.0.0.6</Version>
+        </Distribution>
+    </Distributions>
+    <Feeds />
+    <DistributionGroups>
+        <DistributionGroup z:Id="i146">
+            <Distributions>
+                <Distribution z:Ref="i67" />
+            </Distributions>
+            <Name>Distribution Group</Name>
+            <PrebuildAnalysisEnabled>true</PrebuildAnalysisEnabled>
+            <StageDirectory>ProcessingStage</StageDirectory>
+        </DistributionGroup>
+    </DistributionGroups>
+    <TestStandMode>true</TestStandMode>
+    <PluginConfigurationOptions />
+</Solution>
