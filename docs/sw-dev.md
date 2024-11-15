@@ -22,3 +22,6 @@ There is a known issue with building LabVIEW applications with the Sound and Vib
 from *C:\Program Files\NI\LVAddons\nisvt\1\vi.lib\addons\_NISVFA\_Shared subVIs*  
 to *C:\Program Files\National Instruments\LabVIEW 2022\vi.lib\addons\_NISVFA\_Shared* subVIs.  
 For more information, refer to [Known issue 2432236](https://www.ni.com/en/support/documentation/bugs/23/labview-sound-and-vibration-toolkit-2023-q3-known-issues.html)
+
+When building an executable which uses the Signal Generation API from the Sound and Vibration toolkit, make sure to uncheck the *Modify project library file after removing unused members* option in the build specification.  
+![Uncheck build option](images/uncheck-option-buildspec.png)
