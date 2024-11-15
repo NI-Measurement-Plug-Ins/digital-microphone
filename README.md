@@ -6,11 +6,13 @@ This plug-in performs measurements to validate digital microphones. The system w
 
 - Acquires digital microphone data
   - Supports PDM and I2S protocols
-- Calibrate Output Level
-- Single Tone Measurements
-- Frequency Response Measurements
+- [Calibrate Acoustic Output Level](docs/measurements/calibrate-acoustic-output.md)
+- [Single Tone Measurements](docs/measurements/single-tone.md)
+- [Frequency Response Measurements](docs/measurements/frequency-reponse.md)
 
 ## Hardware Setup
+
+![Hardware Diagram](docs/images/hw-system-diagram.png)  
 
 Instrumentation:
 
