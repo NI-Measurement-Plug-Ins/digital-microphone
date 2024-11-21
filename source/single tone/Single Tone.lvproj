@@ -745,7 +745,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{4685EEFF-3E80-447F-A82E-FEA75D3BA2F4}</Property>
-				<Property Name="Bld_version.build" Type="Int">10</Property>
+				<Property Name="Bld_version.build" Type="Int">15</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Single Tone - Digital Mic UI.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">../Single Tone - Digital Mic/BuiltUI/Single Tone - Digital Mic UI.lvlibp</Property>
