@@ -959,7 +959,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/C/dev/digital-microphone/builds/NI_AB_PROJECTNAME</Property>
 				<Property Name="Bld_postActionVIID" Type="Ref">/My Computer/Frequency Response.lvlib/Advanced/Build Assets/Post-Build Action.vi</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{C7BE7403-723D-4F94-9449-76F94670BED4}</Property>
-				<Property Name="Bld_version.build" Type="Int">16</Property>
+				<Property Name="Bld_version.build" Type="Int">17</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">FrequencyResponse.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/dev/digital-microphone/builds/NI_AB_PROJECTNAME/FrequencyResponse.exe</Property>
@@ -1024,7 +1024,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{C0FD9668-7D67-4606-A399-97C41258E1CB}</Property>
-				<Property Name="Bld_version.build" Type="Int">36</Property>
+				<Property Name="Bld_version.build" Type="Int">37</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Frequency Response UI.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">../NI_AB_PROJECTNAME/BuiltUI/Frequency Response UI.lvlibp</Property>

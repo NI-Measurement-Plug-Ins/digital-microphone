@@ -680,7 +680,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/C/dev/digital-microphone/builds/NI_AB_PROJECTNAME</Property>
 				<Property Name="Bld_postActionVIID" Type="Ref">/My Computer/Single Tone - Digital Mic.lvlib/Advanced/Build Assets/Post-Build Action.vi</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{A6038EE6-4C2E-458D-911E-01F5A93F0325}</Property>
-				<Property Name="Bld_version.build" Type="Int">9</Property>
+				<Property Name="Bld_version.build" Type="Int">10</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">SingleTone-DigitalMic.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/dev/digital-microphone/builds/NI_AB_PROJECTNAME/SingleTone-DigitalMic.exe</Property>
@@ -745,7 +745,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{4685EEFF-3E80-447F-A82E-FEA75D3BA2F4}</Property>
-				<Property Name="Bld_version.build" Type="Int">16</Property>
+				<Property Name="Bld_version.build" Type="Int">17</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Single Tone - Digital Mic UI.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">../Single Tone - Digital Mic/BuiltUI/Single Tone - Digital Mic UI.lvlibp</Property>
