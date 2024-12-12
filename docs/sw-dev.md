@@ -11,6 +11,7 @@ Software dependencies:
 - NI DAQmx (latest)
 - NI DCPower (latest)
 - NI RIO (latest)
+- [Measurement Plug-In SDK for LabVIEW v3.1.0.6](https://github.com/ni/measurement-plugin-labview/releases)
 
 Tested with:
 
